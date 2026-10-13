@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Lessons
 {
-    internal class Program
+    internal class SumOfThree
     {
         static void Main(string[] args)
         {
