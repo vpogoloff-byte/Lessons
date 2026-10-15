@@ -1,3 +1,7 @@
 <Solution>
-  <Project Path="Lessons/Lessons.csproj" Id="f4dea94b-cbcc-451c-9a0e-3a26c4e2e1a7" />
+  <Folder Name="/Элементы решения/">
+    <Project Path="AverageOfTwo/AverageOfTwo.csproj" Id="a264484f-2f0a-4202-ad7e-0ba8ab468baf" />
+  </Folder>
+  <Project Path="Convertor/Convertor.csproj" Id="b229287a-72d0-4704-bfbb-47ff78db1864" />
+  <Project Path="SumOfThree/SumOfThree.csproj" Id="adf6b38b-b90d-44dd-9e1c-15a0f522f973" />
 </Solution>
