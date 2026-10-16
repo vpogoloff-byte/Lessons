@@ -3,5 +3,6 @@
     <Project Path="AverageOfTwo/AverageOfTwo.csproj" Id="a264484f-2f0a-4202-ad7e-0ba8ab468baf" />
   </Folder>
   <Project Path="Convertor/Convertor.csproj" Id="b229287a-72d0-4704-bfbb-47ff78db1864" />
+  <Project Path="EvenOrOdd/EvenOrOdd.csproj" Id="3ab0d268-5edc-42cd-8ae7-b26e140336c2" />
   <Project Path="SumOfThree/SumOfThree.csproj" Id="adf6b38b-b90d-44dd-9e1c-15a0f522f973" />
 </Solution>
