@@ -5,6 +5,7 @@
   <Project Path="CalculatorIfElse/CalculatorIfElse.csproj" Id="7c205b6d-38a5-4998-bf9c-d36e625e7e0b" />
   <Project Path="ConsoleApp1/CalculatorSwitch.csproj" Id="9f69e5f1-4867-4043-bf7d-dafe2e08738a" />
   <Project Path="Convertor/Convertor.csproj" Id="b229287a-72d0-4704-bfbb-47ff78db1864" />
+  <Project Path="EvenOddCounter/EvenOddCounter.csproj" Id="84080fa7-4de5-4bfc-8c77-ab6287375119" />
   <Project Path="EvenOrOdd/EvenOrOdd.csproj" Id="3ab0d268-5edc-42cd-8ae7-b26e140336c2" />
   <Project Path="SumOfThree/SumOfThree.csproj" Id="adf6b38b-b90d-44dd-9e1c-15a0f522f973" />
 </Solution>
