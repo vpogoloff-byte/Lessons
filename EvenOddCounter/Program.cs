@@ -7,7 +7,7 @@ namespace Lessons
         static void Main(string[] args)
         {
 
-            Console.WriteLine("Напишите диапазон, в котором будет подсчёт четных и нечетных целых чисел (Например: с 1 до 25):");
+            Console.WriteLine("Напишите диапазон, в котором будет подсчёт четных и нечетных целых чисел (Например: с 0 до 25):");
 
             int startNumber = int.Parse(Console.ReadLine());    // TODO: обработать исключения
             int endNumber = int.Parse(Console.ReadLine());

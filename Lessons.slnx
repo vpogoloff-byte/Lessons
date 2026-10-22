@@ -3,9 +3,10 @@
     <Project Path="AverageOfTwo/AverageOfTwo.csproj" Id="a264484f-2f0a-4202-ad7e-0ba8ab468baf" />
   </Folder>
   <Project Path="CalculatorIfElse/CalculatorIfElse.csproj" Id="7c205b6d-38a5-4998-bf9c-d36e625e7e0b" />
-  <Project Path="ConsoleApp1/CalculatorSwitch.csproj" Id="9f69e5f1-4867-4043-bf7d-dafe2e08738a" />
+  <Project Path="CalculatorSwitch/CalculatorSwitch.csproj" Id="49d22c26-2a56-4078-9983-9d3a8b38711e" />
   <Project Path="Convertor/Convertor.csproj" Id="b229287a-72d0-4704-bfbb-47ff78db1864" />
   <Project Path="EvenOddCounter/EvenOddCounter.csproj" Id="84080fa7-4de5-4bfc-8c77-ab6287375119" />
   <Project Path="EvenOrOdd/EvenOrOdd.csproj" Id="3ab0d268-5edc-42cd-8ae7-b26e140336c2" />
+  <Project Path="NestedLoopsTriangles/NestedLoopsTriangles.csproj" Id="7ae5bf60-f6dc-4bb3-9612-1dfc6db4e0ef" />
   <Project Path="SumOfThree/SumOfThree.csproj" Id="adf6b38b-b90d-44dd-9e1c-15a0f522f973" />
 </Solution>
