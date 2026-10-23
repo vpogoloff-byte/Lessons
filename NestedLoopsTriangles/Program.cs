@@ -10,10 +10,10 @@ namespace Lessons
 
             int height = 5;
 
-            for (int i = 0; i < height; i++) // Внешний цикл: отвечает за строки (сверху вниз)
+            for (int i = 0; i < height; i++) 
             {
 
-                for (int j = 0; j <= i; j++) // Внутренний цикл: отвечает за количество # в строке
+                for (int j = 0; j <= i; j++) 
                 {
                     Console.Write("#");
                 }

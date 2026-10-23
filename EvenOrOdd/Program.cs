@@ -19,16 +19,19 @@ namespace Lessons
         }
         static void Main(string[] args)
         {
+            
             int number = InputNumber("Введите число для проверки на чётность: ");
 
-            if (number % 2 == 0)
-            {
-                Console.WriteLine("Ваше число чётное!");
-            }
-            else
-            {
-                Console.WriteLine("Ваше число нечётное!");
-            }
+            //if (number % 2 == 0)
+            //{
+            //    Console.WriteLine("Ваше число чётное!");
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Ваше число нечётное!");
+            //}
+            Console.WriteLine(number % 2 == 0 ? "Ваше число чётное!" : "Ваше число нечётное!");
+
         }
     }
 }
