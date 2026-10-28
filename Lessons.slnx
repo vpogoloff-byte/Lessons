@@ -3,6 +3,7 @@
     <Project Path="AverageOfTwo/AverageOfTwo.csproj" Id="a264484f-2f0a-4202-ad7e-0ba8ab468baf" />
   </Folder>
   <Project Path="ArrayBasics/ArrayBasics.csproj" Id="7d7873f2-fe44-4cb2-8525-5746ff819678" />
+  <Project Path="ArrayMinMax/ArrayMinMax.csproj" Id="34db56ef-7362-4e1b-bc8a-e7c22576e053" />
   <Project Path="CalculatorIfElse/CalculatorIfElse.csproj" Id="7c205b6d-38a5-4998-bf9c-d36e625e7e0b" />
   <Project Path="CalculatorSwitch/CalculatorSwitch.csproj" Id="49d22c26-2a56-4078-9983-9d3a8b38711e" />
   <Project Path="Convertor/Convertor.csproj" Id="b229287a-72d0-4704-bfbb-47ff78db1864" />
