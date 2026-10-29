@@ -10,6 +10,7 @@
   <Project Path="Convertor/Convertor.csproj" Id="b229287a-72d0-4704-bfbb-47ff78db1864" />
   <Project Path="EvenOddCounter/EvenOddCounter.csproj" Id="84080fa7-4de5-4bfc-8c77-ab6287375119" />
   <Project Path="EvenOrOdd/EvenOrOdd.csproj" Id="3ab0d268-5edc-42cd-8ae7-b26e140336c2" />
+  <Project Path="MatrixBasics/MatrixBasics.csproj" Id="bbf2a1cf-58e7-450a-a857-40e0cad2b5aa" />
   <Project Path="NestedLoopsTriangles/NestedLoopsTriangles.csproj" Id="7ae5bf60-f6dc-4bb3-9612-1dfc6db4e0ef" />
   <Project Path="SumOfThree/SumOfThree.csproj" Id="adf6b38b-b90d-44dd-9e1c-15a0f522f973" />
 </Solution>
