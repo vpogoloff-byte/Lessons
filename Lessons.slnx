@@ -2,7 +2,6 @@
   <Folder Name="/Элементы решения/">
     <Project Path="AverageOfTwo/AverageOfTwo.csproj" Id="a264484f-2f0a-4202-ad7e-0ba8ab468baf" />
   </Folder>
-  <Project Path="../YandexCodeRunTasks/Go/YandexCodeRunTasks.csproj" Id="4ccb202f-d696-4ce8-b1b8-ba7b5a0ea65d" />
   <Project Path="ArrayBasics/ArrayBasics.csproj" Id="7d7873f2-fe44-4cb2-8525-5746ff819678" />
   <Project Path="ArrayHomework/ArrayHomework.csproj" Id="021e2889-cd09-4e61-b864-102d6224f85d" />
   <Project Path="ArrayMinMax/ArrayMinMax.csproj" Id="34db56ef-7362-4e1b-bc8a-e7c22576e053" />
@@ -18,4 +17,5 @@
   <Project Path="NestedLoopsTriangles/NestedLoopsTriangles.csproj" Id="7ae5bf60-f6dc-4bb3-9612-1dfc6db4e0ef" />
   <Project Path="PrintStringMethod/PrintStringMethod.csproj" Id="60156e90-a769-4841-8838-898ca49d3908" />
   <Project Path="SumOfThree/SumOfThree.csproj" Id="adf6b38b-b90d-44dd-9e1c-15a0f522f973" />
+  <Project Path="YandexCodeRunTasks/Go/YandexCodeRunTasks.csproj" Id="4ccb202f-d696-4ce8-b1b8-ba7b5a0ea65d" />
 </Solution>
