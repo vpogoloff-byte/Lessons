@@ -2,6 +2,7 @@
   <Folder Name="/Элементы решения/">
     <Project Path="AverageOfTwo/AverageOfTwo.csproj" Id="a264484f-2f0a-4202-ad7e-0ba8ab468baf" />
   </Folder>
+  <Project Path="../Go/Go/YandexCodeRunTasks.csproj" Id="4ccb202f-d696-4ce8-b1b8-ba7b5a0ea65d" />
   <Project Path="ArrayBasics/ArrayBasics.csproj" Id="7d7873f2-fe44-4cb2-8525-5746ff819678" />
   <Project Path="ArrayHomework/ArrayHomework.csproj" Id="021e2889-cd09-4e61-b864-102d6224f85d" />
   <Project Path="ArrayMinMax/ArrayMinMax.csproj" Id="34db56ef-7362-4e1b-bc8a-e7c22576e053" />
